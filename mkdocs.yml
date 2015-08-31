@@ -1,0 +1,24 @@
+site_name: Pemrograman Web
+pages:
+- "PHP – INTRODUCTION": index.md
+- "PHP - SINTAKS": bab2.md
+- "PHP – OPERATOR": bab3.md
+- "MODULARITAS": bab4.md
+- "ARRAY": bab5.md
+- "STATEMENT KONTROL": bab6.md
+- "BEKERJA DENGAN FORM": bab7.md
+- "POST AND GET METHOD": bab8.md
+- "FUNCTION": bab9.md
+- "OPERASI FILE": bab10.md
+- "OPERASI STRING": bab11.md
+- "FUNCTION DATE": bab12.md
+- "BEKERJA DENGAN SESSION": bab13.md
+- "BEKERJA DENGAN COOKIES": bab14.md
+- "PHP- MySQL": bab15.md
+- "SQL INJECTION": bab16.md
+- "JENIS-JENIS-WEB": jenis_jenis_web.md
+- "SERVER-SIDE-SCRIPTING": server_side_scripting.md
+- "INSTALLASI WEB SERVER": installasi_web_server.md
+- "PHP INTRO": php_intro.md
+
+theme: readthedocs 
