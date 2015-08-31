@@ -20,6 +20,5 @@ pages:
 - "SERVER-SIDE-SCRIPTING": server_side_scripting.md
 - "INSTALLASI WEB SERVER": installasi_web_server.md
 - "PHP INTRO": php_intro.md
-- aaa: aaa.md
 
 theme: readthedocs 
